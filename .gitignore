@@ -1,0 +1,4 @@
+# Vagrant artifacts
+.vagrant/
+Vagrantfile.local
+boxes/
